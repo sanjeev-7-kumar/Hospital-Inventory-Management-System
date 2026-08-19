@@ -35,6 +35,9 @@ The database consists of the following tables:
 - **Tools:** MySQL Workbench / phpMyAdmin / Command Line
 
 ---
+## 🗂️ Database Schema
+
+![Database Schema](schema.png)
 
 ## 📥 Installation & Setup
 
